@@ -1,0 +1,19 @@
+/* App.css */
+.App {
+  text-align: center;
+}
+
+.cars-list {
+  display: flex;
+  justify-content: space-around;
+}
+
+.car {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.new {
+  background-color: #aaffaa;
+}
